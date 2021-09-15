@@ -1,5 +1,5 @@
 {
-    "name": "swissup/module-recaptcha-meetanshi-paya",
+    "name": "swissup/module-recaptcha-sezzlepay",
     "description": "Additional JS mixins for reCapctha and Sezzle Payment at Checkout.",
     "keywords": [
         "sezzle",
